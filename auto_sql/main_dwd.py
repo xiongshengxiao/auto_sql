@@ -9,7 +9,7 @@ from func import dwd_functions_yixiao as func
 
 if __name__ == "__main__":
     pro = {
-        "excel_path": r"E:\GuangFeng\【线索】新DMS入湖变更及整合DWD要件v1.8.5 - 测试.xlsx",
+        "excel_path": r"E:\GuangFeng\【线索】新DMS入湖变更及整合DWD要件v1.8.5.xlsx",
         "target_dwd_table_ddls": "dwd/dwd_table_ddls.sql",
         "target_dwd_load_sqls": "dwd/dwd_load_sqls.sql",
         "target_dwd_old_dl_init_sqls": "dwd/dwd_old_dl_init_sqls.sql"
